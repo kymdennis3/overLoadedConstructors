@@ -19,4 +19,8 @@ public class Pizza {
         this.cheese = cheese;
         this.sauce = sauce;
     }
+    Pizza(String bread, String cheese) {
+        this.bread = bread;
+        this.cheese = cheese;
+    }
 }

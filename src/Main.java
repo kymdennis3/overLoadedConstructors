@@ -20,5 +20,10 @@ public class  Main {
         System.out.println(pizza.cheese);
         System.out.println(pizza.sauce);
 
+        System.out.println();
+        System.out.println("Ingredients to our third recipe");
+        System.out.println(pizza.bread);
+        System.out.println(pizza.cheese);
+
     }
 }
