@@ -23,4 +23,7 @@ public class Pizza {
         this.bread = bread;
         this.cheese = cheese;
     }
+    Pizza(String bread) {
+        this.bread = bread;
+    }
 }
