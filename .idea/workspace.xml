@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8693bd95-9698-4539-abca-37cd4eba21cf" name="Changes" comment="Introduced a fourth constructor and displayed its attributes">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pizza.java" afterDir="false" />
-    </list>
+    <list default="true" id="8693bd95-9698-4539-abca-37cd4eba21cf" name="Changes" comment="Introduced an empty fourth constructor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668673984714</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Introduced an empty fourth constructor">
+      <created>1668674138491</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668674138491</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +103,7 @@
     <MESSAGE value="Introduced a second constructor and displayed its attributes" />
     <MESSAGE value="Introduced a third constructor and displayed its attributes" />
     <MESSAGE value="Introduced a fourth constructor and displayed its attributes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Introduced a fourth constructor and displayed its attributes" />
+    <MESSAGE value="Introduced an empty fourth constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introduced an empty fourth constructor" />
   </component>
 </project>
